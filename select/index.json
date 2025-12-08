@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "すきっ！～超ver～",
+  "base_artist": "超ときめき♡宣伝部",
+  "createdAt": "2025-12-08T19:57:49.004637Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "すきっ! - 超ver",
+      "artist": "Cho Tokimeki Sendenbu",
+      "has_synced": true,
+      "path": "select/01_すきっ!_-_超ver_Cho_Tokimeki_Sendenbu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "すきっ！～超ver～",
+      "artist": "超ときめき♡宣伝部",
+      "has_synced": true,
+      "path": "select/02_すきっ!~超ver~_超ときめき♡宣伝部.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "すきっ！～超ver～ (LIVE at Arena Tachikawa Tachihi 2021.5.30)",
+      "artist": "超ときめき♡宣伝部",
+      "has_synced": false,
+      "path": "select/03_すきっ!~超ver~_(LIVE_at_Arena_Tachikawa_Tachihi_2021.5.30)_超ときめき♡宣伝部.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "すきっ! - 超ver",
+      "artist": "超ときめき♡宣伝部",
+      "has_synced": false,
+      "path": "select/pl_01_すきっ!_-_超ver_超ときめき♡宣伝部.txt"
+    }
+  ]
+}
